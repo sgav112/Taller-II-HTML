@@ -80,6 +80,11 @@ body{
     -moz-box-shadow: 10px 18px 22px -3px rgba(0,0,0,1);
     box-shadow: 18px 16px 20px -5px rgba(0,0,0,);
 }
+
+.Contenedor #Text {
+    margin-left: 2%;
+}
+
 .Contenedor #Inputs .individuo h5{
     margin-top: 0.5%;
     justify-content: center;
