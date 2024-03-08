@@ -1,0 +1,16 @@
+body{
+    background-color: #4DADF7;
+}
+.contenedor{
+    background-color: #584DF7;
+    display: grid;
+  align-items: center;
+  justify-content: center;
+  margin: 10%;
+}
+.entrada{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 2%;
+
+}
